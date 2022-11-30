@@ -24,4 +24,4 @@ When Im logged in, I can edit my profile, view my dashboard of pinned repositori
 
 I can see links to integrate with other products as well.
 
-A user can have websites, tools, products and ideas on their profile/account that they want to share and to build 'value' points within the community. For example, my profile has links to whitepapers I find useful or intereting, or a link to a new GitLab feature documentation that is something I talk about wanting to use.
+A user can have websites, tools, products and ideas on their profile/account that they want to share and to build 'value' points within the community. For example, my profile has links to whitepapers I find useful or intereting, or a link to a new GitLab feature documentation that is something I talk about wanting to use..
